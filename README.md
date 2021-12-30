@@ -40,45 +40,45 @@ Now, I want to find a back-end job where I could express myself and become a goo
 ___
 
 ### Back-end
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&color=FFFFFF)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&color=FFFFFF)
-<!--![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=eb3b5a&color=ffffff)-->
+![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&color=grey)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql&color=grey)
+<!--![Symfony](https://img.shields.io/badge/Symfony-white?style=for-the-badge&logo=symfony&logoColor=eb3b5a&color=grey)-->
 
 ### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&color=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=2bcbba&color=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&color=ffffff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&color=ffffff)
-![WordPress](https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=wordpress&logoColor=2bcbba&color=ffffff)
-<!--![ReactJS](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react&color=ffffff)-->
+![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&color=grey)
+![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=2bcbba&color=grey)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&color=grey)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&color=grey)
+![WordPress](https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=wordpress&logoColor=2bcbba&color=grey)
+<!--![ReactJS](https://img.shields.io/badge/ReactJS-white?style=for-the-badge&logo=react&color=grey)-->
 
 ### Tools
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&color=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=a55eea&color=ffffff)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=2bcbba&color=ffffff)
-![PHPStorm](https://img.shields.io/badge/PHPStorm-black?style=for-the-badge&logo=phpstorm&logoColor=2bcbba&color=ffffff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=a55eea&color=ffffff)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-black?style=for-the-badge&logo=adobexd&logoColor=2bcbba&color=ffffff)
+![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git&color=grey)
+![GitHub](https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=a55eea&color=grey)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-white?style=for-the-badge&logo=intellij-idea&color=grey)
+![PHPStorm](https://img.shields.io/badge/PHPStorm-white?style=for-the-badge&logo=phpstorm&logoColor=D97DEA&color=grey)
+![VS Code](https://img.shields.io/badge/-VS%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=grey)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-white?style=for-the-badge&logo=adobexd&logoColor=C00BE0&color=grey)
 <br />
-![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=apple&logoColor=2bcbba&color=ffffff)
-![Click-Up](https://img.shields.io/badge/Click%20Up-black?style=for-the-badge&logo=clickup&logoColor=2bcbba&color=ffffff)
-![Notion](https://img.shields.io/badge/Notion-007ACC?style=for-the-badge&logo=notion&logoColor=a55eea&color=ffffff)
-![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&color=ffffff)
+![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=apple&color=grey)
+![Click-Up](https://img.shields.io/badge/Click%20Up-black?style=for-the-badge&logo=clickup&logoColor=pink&color=grey)
+![Notion](https://img.shields.io/badge/Notion-007ACC?style=for-the-badge&logo=notion&color=grey)
+![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&color=grey)
 <br />
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-black?style=for-the-badge&logo=adobeillustrator&color=ffffff)
-![Affinity Designer](https://img.shields.io/badge/-Affinity%20Designer-black?style=for-the-badge&logo=affinitydesigner&color=ffffff)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-black?style=for-the-badge&logo=adobeillustrator&logoColor=orange&color=grey)
+![Affinity Designer](https://img.shields.io/badge/-Affinity%20Designer-black?style=for-the-badge&logo=affinitydesigner&logoColor=blue&color=grey)
 
 ___
 
 #### I've already used :
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=2bcbba&color=ffffff)
-![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=2bcbba&color=ffffff)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=android-studio&color=ffffff)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=blue&color=grey)
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=orange&color=grey)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=android-studio&color=grey)
 
 #### I want to learn :
-![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift&logoColor=2bcbba&color=ffffff)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=2bcbba&color=ffffff)
-![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=2bcbba&color=ffffff)
+![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift&logoColor=orange&color=grey)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue&color=grey)
+![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&color=grey)
 
 
 <!--THIRD SECTION
