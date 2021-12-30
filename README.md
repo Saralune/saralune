@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/lefortsarah/" alt="LinkedIn Link">
     <img alt="Custom badge" src="https://img.shields.io/static/v1?message=LINKEDIN&label=&logo=LINKEDIN&style=for-the-badge&color=1e90FF">
   </a>
-  <a href="https://codepen.io/saralune" alt="CodePen Link">
+  <a href="https://codepen.io/saralune/pens/public" alt="CodePen Link">
     <img alt="Custom badge" src="https://img.shields.io/static/v1?message=CODEPEN&label=&logo=CODEPEN&style=for-the-badge&color=2f3542">
   </a>
   <a href="https://couturecirculaire.fr" alt="Blog Link">
