@@ -27,7 +27,7 @@ Now, I want to find a back-end job where I could express myself and become a goo
 ```
 
 - 🔭 I’m currently working on my **portfolio projects**
-- 🌱 I’m currently learning **Swift & React**
+- 🌱 I’m currently learning **Symfony & React**
 - 🤝 I’m looking for a company to host me on a **work-study program**
 - 🧵 On my spare time, I love **sewing**
 
@@ -76,9 +76,9 @@ ___
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=android-studio&color=grey)
 
 #### I want to learn :
-![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift&logoColor=orange&color=grey)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue&color=grey)
 ![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&color=grey)
+![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift&logoColor=orange&color=grey)
 
 
 <!--THIRD SECTION
