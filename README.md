@@ -16,6 +16,10 @@
   <a href="https://www.youtube.com/watch?v=17JGjERj99g" alt="YouTube Funny Link">
     <img alt="Custom badge" src="https://img.shields.io/static/v1?message=FAVORITE VIDEO&label=&logo=YOUTUBE&style=for-the-badge&color=red">
   </a>
+  <!--DEV IN PROGRESS
+  <a href="" alt="Personnal CV Link">
+    <img alt="Custom badge" src="https://img.shields.io/static/v1?message=CV&label=&logo=&style=for-the-badge&color=green">
+  </a>-->
 </p>
 
 ```
