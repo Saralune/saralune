@@ -80,9 +80,9 @@ ___
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=android-studio&color=grey)
 
 #### I *secretly* want to learn :
+![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift&logoColor=orange&color=grey)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue&color=grey)
 <!--![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&color=grey)-->
-![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift&logoColor=orange&color=grey)
 
 
 <!--THIRD SECTION
