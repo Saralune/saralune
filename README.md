@@ -7,15 +7,15 @@
   <a href="https://www.linkedin.com/in/lefortsarah/" alt="LinkedIn Link">
     <img alt="Custom badge" src="https://img.shields.io/static/v1?message=LINKEDIN&label=&logo=LINKEDIN&style=for-the-badge&color=1e90FF">
   </a>
-  <a href="https://codepen.io/saralune/pens/public" alt="CodePen Link">
-    <img alt="Custom badge" src="https://img.shields.io/static/v1?message=CODEPEN&label=&logo=CODEPEN&style=for-the-badge&color=2f3542">
-  </a>
   <a href="https://couturecirculaire.fr" alt="Blog Link">
     <img alt="Custom badge" src="https://img.shields.io/static/v1?message=BLOG&label=&logo=BLOG&style=for-the-badge&color=yellow">
   </a>
   <a href="https://www.youtube.com/watch?v=17JGjERj99g" alt="YouTube Funny Link">
     <img alt="Custom badge" src="https://img.shields.io/static/v1?message=FAVORITE VIDEO&label=&logo=YOUTUBE&style=for-the-badge&color=red">
   </a>
+  <!--<a href="https://codepen.io/saralune/pens/public" alt="CodePen Link">
+    <img alt="Custom badge" src="https://img.shields.io/static/v1?message=CODEPEN&label=&logo=CODEPEN&style=for-the-badge&color=2f3542">
+  </a>-->
   <!--DEV IN PROGRESS
   <a href="" alt="Personnal CV Link">
     <img alt="Custom badge" src="https://img.shields.io/static/v1?message=CV&label=&logo=&style=for-the-badge&color=green">
