@@ -44,6 +44,7 @@ Now, I want to find a back-end job where I could express myself and become a goo
 ___
 
 ### Back-end
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=blue&color=grey)
 ![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&color=grey)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql&color=grey)
 <!--![Symfony](https://img.shields.io/badge/Symfony-white?style=for-the-badge&logo=symfony&logoColor=eb3b5a&color=grey)-->
@@ -75,7 +76,6 @@ ___
 ___
 
 #### I've already used :
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=blue&color=grey)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=orange&color=grey)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=android-studio&color=grey)
 
