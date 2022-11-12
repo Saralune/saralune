@@ -30,9 +30,9 @@ I love this job because I feel like a detective 🕵️‍♀️ and I really lo
 Now, I want to find a back-end job where I could express myself and become a good developper.
 ```
 
-- 🔭 I’m currently working on my **portfolio projects**
-- 🌱 I’m currently learning **Symfony & Angular**
-- 🤝 I’m looking for a company to host me on a **work-study program**
+- 🔭 I’m currently working on an **iOs application**
+- 🌱 I’m currently learning **Swift & Angular**
+- 🤝 I’m working in an IT company on **Java application** 
 - 🧵 On my spare time, I love **sewing**
 
 ##### How I think : 
@@ -81,7 +81,6 @@ ___
 
 #### I *secretly* want to learn :
 ![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift&logoColor=orange&color=grey)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue&color=grey)
 <!--![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&color=grey)-->
 
 
